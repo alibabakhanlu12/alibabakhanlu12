@@ -1,6 +1,5 @@
 # 💫About Me :
-#### Hi!🖐
-#### My name is Ali 
+
 #### I am Computer Engineering student in Tabriz University
 #### My Email is : ali.babakhanlu12@gmail.com
 
